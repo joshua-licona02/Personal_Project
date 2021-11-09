@@ -10,8 +10,18 @@ p{
     text-align: center;
 }
 .left{
+  
+    width: 47%;
+    float: left;
+    padding: 0em;
     border: 1em outset red;
     background-color: whitesmoke;
-    text-align: left;
-    margin-left: auto;
+}
+.right{
+
+    width: 47%;
+    float: right;
+    padding: 0em;
+    border: 1em outset red;
+    background-color: whitesmoke;
 }
